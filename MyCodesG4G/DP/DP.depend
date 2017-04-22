@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1464025131 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\dp\longestincreasingsubsequence.cpp
+	<stdio.h>
+
+1464032267 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\dp\longestcommonsubsequence.cpp
+	<stdio.h>
+
+1464375394 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\dp\bitonicsequence.cpp
+	<stdio.h>
+
+1464376670 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\dp\maxsumsubsequence.cpp
+	<stdio.h>
+
+1464381411 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\dp\editdistance.cpp
+	<stdio.h>
+
+1464381979 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\dp\mincost.cpp
+	<stdio.h>
+
+1464434446 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\dp\coinchange.cpp
+	<stdio.h>
+
+1464436228 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\dp\binomialcoeff.cpp
+	<stdio.h>
+
+1464449197 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\dp\knapsack.cpp
+	<stdio.h>
+
+1464464934 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\dp\eggdrop.cpp
+	<stdio.h>
+
+1464466675 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\dp\cutrod.cpp
+	<stdio.h>
+
+1471117951 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\dp\matrixmultiply.cpp
+	<iostream>
+	<stdio.h>
+

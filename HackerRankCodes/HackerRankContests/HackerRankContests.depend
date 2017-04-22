@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1463302145 source:d:\chess+study\study\company\codes\ds&algocppcodes\hackerrankcodes\hackerrankcontests\gametheory_gameofstones.cpp
+	<stdio.h>
+
+1464885358 source:d:\chess+study\study\company\codes\ds&algocppcodes\hackerrankcodes\hackerrankcontests\gametheory_towerbreakers.cpp
+	<stdio.h>
+
+1471972290 source:d:\chess+study\study\company\codes\ds&algocppcodes\hackerrankcodes\hackerrankcontests\pdf.cpp
+	<algorithm>
+	<string>
+	<cstring>
+
+1471972746 source:d:\chess+study\study\company\codes\ds&algocppcodes\hackerrankcodes\hackerrankcontests\lasercutbuilding.cpp
+	<iostream>
+	<algorithm>
+
+1472293309 source:d:\chess+study\study\company\codes\ds&algocppcodes\hackerrankcodes\hackerrankcontests\primemax.cpp
+	<iostream>
+	<algorithm>
+

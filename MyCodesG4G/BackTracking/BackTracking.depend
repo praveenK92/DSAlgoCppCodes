@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1460299898 source:d:\chess+study\study\company\codes\ds&algoc++codes\mycodesg4g\backtracking\permutation.cpp
+	<stdlib.h>
+
+1460311018 source:d:\chess+study\study\company\codes\ds&algoc++codes\mycodesg4g\backtracking\knighttour.cpp
+
+1460310226 source:d:\chess+study\study\company\codes\ds&algoc++codes\mycodesg4g\backtracking\g4gknighttour.cpp
+	<stdio.h>
+
+1460317387 source:d:\chess+study\study\company\codes\ds&algoc++codes\mycodesg4g\backtracking\ratinamaze.cpp
+
+1460471179 source:d:\chess+study\study\company\codes\ds&algoc++codes\mycodesg4g\backtracking\nqueenproblem.cpp
+
+1460471008 source:d:\chess+study\study\company\codes\ds&algoc++codes\mycodesg4g\backtracking\g4gnqueen.cpp
+	<iostream>
+
+1460311018 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\backtracking\knighttour.cpp
+
+1460471179 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\backtracking\nqueenproblem.cpp
+
+1460299898 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\backtracking\permutation.cpp
+	<stdlib.h>
+
+1460317387 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\backtracking\ratinamaze.cpp
+
+1460916956 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\backtracking\subset.cpp
+	<stdio.h>
+
+1460471265 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\backtracking\g4gnqueen.cpp
+
+1460919565 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\backtracking\subsetbetter.cpp
+	<stdio.h>
+
+1460923747 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\backtracking\mcolouringgraph.cpp
+	<stdio.h>
+
+1460923143 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\backtracking\mcolouringgraphmine.cpp
+	<stdio.h>
+
+1460924132 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\backtracking\mcolouringgraphtryall.cpp
+	<stdio.h>
+
+1461262869 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\backtracking\hamiltonianpathmine.cpp
+	<stdio.h>
+
+1461443988 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\backtracking\sudokusolver.cpp
+	<stdio.h>
+
+1461441810 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\backtracking\sudokug4g.cpp
+
+1461513870 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\backtracking\tugofwarmine.cpp
+	<iostream>
+	<stdio.h>
+

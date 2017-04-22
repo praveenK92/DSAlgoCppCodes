@@ -1,0 +1,2 @@
+Case #1 Distance of src: 1 from dest:5 is: 11
+Case #2 Distance of src: 1 from dest:4 is: 15

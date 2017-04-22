@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1462649675 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\stack\longestvalidsubstring.cpp
+	<stdio.h>
+
+1462651274 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\stack\nextgreatestelement.cpp
+	<stdio.h>
+
+1462807182 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\stack\sortstackrecursion.cpp
+	<stdio.h>
+
+1462812645 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\stack\expressionevaluation.cpp
+	<stdio.h>
+
+1463245290 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\stack\treeoperations.cpp
+	<iostream>
+
+1489952746 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\stack\stacklinkedlistimpl.cpp
+	<stdlib.h>
+	<limits.h>
+
+1490213893 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\stack\petrolpumpqueue.cpp
+	<stdio.h>
+

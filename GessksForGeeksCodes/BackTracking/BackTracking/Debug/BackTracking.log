@@ -1,0 +1,11 @@
+﻿  permutation.cpp
+d:\chess+study\study\company\codes\ds&algocppcodes\gessksforgeekscodes\backtracking\backtracking\permutation.cpp(42): error C2131: expression did not evaluate to a constant
+  d:\chess+study\study\company\codes\ds&algocppcodes\gessksforgeekscodes\backtracking\backtracking\permutation.cpp(42): note: failure was caused by non-constant arguments or reference to a non-constant symbol
+  d:\chess+study\study\company\codes\ds&algocppcodes\gessksforgeekscodes\backtracking\backtracking\permutation.cpp(42): note: see usage of 'n'
+d:\chess+study\study\company\codes\ds&algocppcodes\gessksforgeekscodes\backtracking\backtracking\permutation.cpp(44): error C3863: array type 'int [n]' is not assignable
+d:\chess+study\study\company\codes\ds&algocppcodes\gessksforgeekscodes\backtracking\backtracking\permutation.cpp(58): error C3863: array type 'int [n]' is not assignable
+d:\chess+study\study\company\codes\ds&algocppcodes\gessksforgeekscodes\backtracking\backtracking\permutation.cpp(66): error C2131: expression did not evaluate to a constant
+  d:\chess+study\study\company\codes\ds&algocppcodes\gessksforgeekscodes\backtracking\backtracking\permutation.cpp(66): note: failure was caused by non-constant arguments or reference to a non-constant symbol
+  d:\chess+study\study\company\codes\ds&algocppcodes\gessksforgeekscodes\backtracking\backtracking\permutation.cpp(66): note: see usage of 'n'
+d:\chess+study\study\company\codes\ds&algocppcodes\gessksforgeekscodes\backtracking\backtracking\permutation.cpp(68): error C3863: array type 'int [n]' is not assignable
+d:\chess+study\study\company\codes\ds&algocppcodes\gessksforgeekscodes\backtracking\backtracking\permutation.cpp(82): error C3863: array type 'int [n]' is not assignable

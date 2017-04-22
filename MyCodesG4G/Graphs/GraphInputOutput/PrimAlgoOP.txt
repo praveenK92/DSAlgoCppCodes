@@ -1,0 +1,2 @@
+Case #1 Minimum Spanning Tree Sum is:11
+Case #2 Minimum Spanning Tree Sum is:39

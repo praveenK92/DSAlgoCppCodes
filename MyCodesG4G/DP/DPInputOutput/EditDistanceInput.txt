@@ -1,0 +1,15 @@
+3
+4
+geek
+5
+gesek
+
+3
+cat
+3
+cut
+
+6
+sunday
+8
+saturday

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1463263287 source:d:\chess+study\study\company\codes\ds&algoc++codes\mycodesg4g\trees\treeoperations.cpp
+
+1463243955 source:d:\chess+study\study\company\codes\ds&algoc++codes\mycodesg4g\trees\main.cpp
+
+1463264091 source:d:\chess+study\study\company\codes\ds&algoc++codes\mycodesg4g\trees\levelordertraversal.cpp
+	<iostream>
+
+1491592384 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\trees\levelordertraversal.cpp
+
+1463243955 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\trees\main.cpp
+
+1474673003 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\trees\treeoperations.cpp
+
+1474054081 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\trees\treeoperations2.cpp
+
+1474096601 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\trees\binaryheap.cpp
+
+1491656272 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\trees\buildtreefrompreinorder.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1491663887 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\trees\checkstuff.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+

@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1464637742 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\arrays\sumpair.cpp
+	<algorithm>
+	<stdio.h>
+
+1464806694 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\arrays\arrayrotation.cpp
+	<algorithm>
+	<stdio.h>
+
+1464637754 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\arrays\majorityelementhalf.cpp
+	<algorithm>
+	<stdio.h>
+
+1464807578 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\arrays\maxdifflargelatersmaller.cpp
+	<algorithm>
+	<stdio.h>
+
+1474052493 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\arrays\sortingalgos.cpp
+	<stdio.h>
+
+1473705170 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\arrays\spiralarray.cpp
+	<stdio.h>
+
+1474103488 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\arrays\heapsort.cpp
+
+1474216634 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\arrays\klargestelementsarray.cpp
+	<stdio.h>
+
+1474480459 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\arrays\sortingalgospart2.cpp
+	<stdio.h>
+
+1474481776 source:d:\chess+study\study\company\codes\ds&algocppcodes\mycodesg4g\arrays\mergesortlinkedlist.cpp
+	<stdio.h>
+	<stdlib.h>
+
